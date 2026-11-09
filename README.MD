@@ -1,5 +1,7 @@
 # TecnoForms — Clasificación de Dígitos Manuscritos con Deep Learning (CNN & TensorFlow.js)
 
+- **Demo Interactiva (GitHub Pages):** [Probar Clasificador en Vivo](https://roberto-araujo-98.github.io/ENTREGABLE-MACHINE-LEARNING-DEEP-LEARNING/)
+
 **Institución:** SENATI
 
 **Carrera:** Ingeniería de Software con Inteligencia Artificial
